@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <RNNComponentViewController.h>
+#import "RNNComponentViewController.h"
 #import "EventTrackBoard.h"
 
 NS_ASSUME_NONNULL_BEGIN
